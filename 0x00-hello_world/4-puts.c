@@ -1,11 +1,7 @@
 #include <stdio.h>
 /*
- * main function description - Entry point
- *
- * Description: The program prints using put function
- *
- * Return: Always 0 (success)
- *
+ * main - Entry
+ * Return: Always 0
  */
 int main(void)
 {
