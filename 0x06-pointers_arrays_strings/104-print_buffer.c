@@ -6,6 +6,7 @@
  * @c: buffer to print
  * @s: bytes of buffer to print
  * @l: line of buffer to print
+ *
  * Return: void
  */
 
